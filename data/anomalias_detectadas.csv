@@ -1,0 +1,10 @@
+﻿Marca;Supermercado;Producto;Precio_Texto;Producto_Normalizado;Precio_Num;Anomalia
+DIANA;Exito;Arroz DIANA blanco arroba (12500 gr);$ 47.800;arroz diana blanco arroba 12500 g;47800.0;True
+DIANA;Exito;Arroz DIANA blanco vitamor (10000 gr);$ 43.340;arroz diana blanco vitamor 10000 g;43340.0;True
+DIANA;Carulla;Arroz DIANA blanco arroba (12500 gr);$ 44.500;arroz diana blanco arroba 12500 g;44500.0;True
+DIANA;Carulla;Arroz DIANA blanco vitamor (10000 gr);$ 44.000;arroz diana blanco vitamor 10000 g;44000.0;True
+DIANA;Carulla;Frijol DIANA frijol bola roja (3000 gr);$ 71.200;frijol diana frijol bola roja 3000 g;71200.0;True
+CORONA;Exito;Chocolate CORONA delicatto (1420 gr);$ 100.800;chocolate corona delicatto 1420 g;100800.0;True
+CORONA;Exito;Chocolate CORONA endulzado con stevia (1664 gr);$ 197.100;chocolate corona endulzado con stevia 1664 g;197100.0;True
+CORONA;Carulla;Chocolate CORONA delicatto (1420 gr);$ 100.800;chocolate corona delicatto 1420 g;100800.0;True
+CORONA;Carulla;Chocolate CORONA endulzado con stevia (1664 gr);$ 197.100;chocolate corona endulzado con stevia 1664 g;197100.0;True

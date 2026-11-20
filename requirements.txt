@@ -1,0 +1,14 @@
+# Python 3.11
+
+# Procesamiento y análisis de datos
+pandas>=2.0,<3.0
+
+# Automatización y web scraping
+selenium>=4.10,<5.0
+
+# Visualización de datos
+matplotlib>=3.7,<4.0
+plotly>=5.15,<7.0
+
+# Dashboard interactivo
+streamlit>=1.30,<2.0

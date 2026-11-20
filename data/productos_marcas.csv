@@ -1,0 +1,497 @@
+﻿Marca;Supermercado;Producto;Precio_Texto;Producto_Normalizado;Precio_Num;Anomalia
+DIANA;Exito;Arroz DIANA blanco vitamor (5000 gr);$ 19.950;arroz diana blanco vitamor 5000 g;19950.0;False
+DIANA;Exito;Lenteja DIANA cuidadosamente seleccionadas (500 gr);$ 3.840;lenteja diana cuidadosamente seleccionadas 500 g;3840.0;False
+DIANA;Exito;Arroz DIANA blanco premium (2500 gr);$ 15.350;arroz diana blanco premium 2500 g;15350.0;False
+DIANA;Exito;Arroz DIANA blanco premium (1000 gr);$ 5.990;arroz diana blanco premium 1000 g;5990.0;False
+DIANA;Exito;Garbanzo DIANA cuidadosamente seleccionados (500 gr);$ 3.710;garbanzo diana cuidadosamente seleccionados 500 g;3710.0;False
+DIANA;Exito;Harina DIANA maíz blanco (1000 gr);$ 3.400;harina diana maz blanco 1000 g;3400.0;False
+DIANA;Exito;Frijol DIANA calima cuidadosamente seleccionados (500 gr);$ 6.690;frijol diana calima cuidadosamente seleccionados 500 g;6690.0;False
+DIANA;Exito;Arroz DIANA blanco vitamor (3000 gr);$ 11.940;arroz diana blanco vitamor 3000 g;11940.0;False
+DIANA;Exito;Arroz DIANA blanco arroba (12500 gr);$ 47.800;arroz diana blanco arroba 12500 g;47800.0;True
+DIANA;Exito;Frijol DIANA cargamanto (500 gr);$ 7.210;frijol diana cargamanto 500 g;7210.0;False
+DIANA;Exito;Arroz DIANA blanco vitamor (1000 gr);$ 4.100;arroz diana blanco vitamor 1000 g;4100.0;False
+DIANA;Exito;Lenteja DIANA cuidadosamente seleccionadas (1000 gr);$ 6.430;lenteja diana cuidadosamente seleccionadas 1000 g;6430.0;False
+DIANA;Exito;Maíz DIANA pira (500 gr);$ 2.960;maz diana pira 500 g;2960.0;False
+DIANA;Exito;Aceite DIANA con vitaminas A y D (3000 ml);(Cm3 a $ 9,01);aceite diana con vitaminas a y d 3000 ml;3901.0;False
+DIANA;Exito;Arroz DIANA blanco vitamor (500 gr);$ 2.110;arroz diana blanco vitamor 500 g;2110.0;False
+DIANA;Exito;Arroz DIANA cosecha especial (1000 gr);$ 11.450;arroz diana cosecha especial 1000 g;11450.0;False
+DIANA;Exito;Arroz DIANA con sabor a coco (500 gr);$ 4.160;arroz diana con sabor a coco 500 g;4160.0;False
+DIANA;Exito;Arroz DIANA integral (1000 gr);$ 7.070;arroz diana integal 1000 g;7070.0;False
+DIANA;Exito;Aceite DIANA con vitaminas A y D (900 ml);(Ml a $ 9,00);aceite diana con vitaminas a y d 900 ml;900.0;False
+DIANA;Exito;Arroz DIANA blanco premium (4000 gr);$ 26.150;arroz diana blanco premium 4000 g;26150.0;False
+DIANA;Exito;Frijol DIANA zaragoza (500 gr);$ 5.990;frijol diana zaragoza 500 g;5990.0;False
+DIANA;Exito;Arveja DIANA cuidadosamente seleccionadas (500 gr);$ 2.990;arveja diana cuidadosamente seleccionadas 500 g;2990.0;False
+DIANA;Exito;Arroz DIANA blanco vitamor (10000 gr);$ 43.340;arroz diana blanco vitamor 10000 g;43340.0;True
+DIANA;Exito;Frijol DIANA radical cuidadosamente seleccionado (500 gr);$ 12.000;frijol diana radical cuidadosamente seleccionado 500 g;12000.0;False
+DIANA;Exito;Aceite de girasol DIANA canola, premium (2000 ml);$ 35.150;aceite de girasol diana canola premium 2000 ml;35150.0;False
+DIANA;Exito;Arroz DIANA con sabor a coco (1000 gr);$ 6.810;arroz diana con sabor a coco 1000 g;6810.0;False
+DIANA;Exito;Frijol DIANA bola roja (1000 gr);$ 24.850;frijol diana bola roja 1000 g;24850.0;False
+DIANA;Exito;Arroz DIANA blanco vitamor (2500 gr);$ 11.350;arroz diana blanco vitamor 2500 g;11350.0;False
+DIANA;Exito;Arroz DIANA con fideos (460 gr);$ 3.250;arroz diana con fideos 460 g;3250.0;False
+DIANA;Exito;Frijol DIANA calima cuidadosamente seleccionados (1000 gr);$ 16.200;frijol diana calima cuidadosamente seleccionados 1000 g;16200.0;False
+DIANA;Exito;Maíz DIANA pira (1 und);$ 5.890;maz diana pira 1 und;5890.0;False
+DIANA;Exito;Harina DIANA maíz amarillo (1000 gr);$ 3.105;harina diana maz amarillo 1000 g;3105.0;False
+DIANA;Exito;Aceite DIANA con vitaminas A y D (2000 ml);(Ml a $ 10,16);aceite diana con vitaminas a y d 2000 ml;1016.0;False
+DIANA;Exito;Garbanzo DIANA cuidadosamente seleccionados (1000 gr);$ 7.410;garbanzo diana cuidadosamente seleccionados 1000 g;7410.0;False
+DIANA;Exito;Harina DIANA de maíz blanco extra fina (500 gr);$ 1.908;harina diana de maz blanco extra fina 500 g;1908.0;False
+DIANA;Exito;Aceite de girasol DIANA vegetal (1800 ml);(Ml a $ 14,31);aceite de girasol diana vegetal 1800 ml;1431.0;False
+DIANA;Exito;Arroz DIANA cosecha especial (2500 gr);$ 28.500;arroz diana cosecha especial 2500 g;28500.0;False
+DIANA;Exito;Aceite DIANA con vitaminas A y D (450 ml);(Ml a $ 15,31);aceite diana con vitaminas a y d 450 ml;1531.0;False
+DIANA;Exito;Arroz DIANA cosecha especial (500 gr);$ 5.670;arroz diana cosecha especial 500 g;5670.0;False
+DIANA;Exito;Aceite de girasol DIANA vegetal (900 ml);(Ml a $ 21,56);aceite de girasol diana vegetal 900 ml;2156.0;False
+DIANA;Exito;Aceite DIANA con vitaminas A y D (250 ml);(Ml a $ 15,40);aceite diana con vitaminas a y d 250 ml;1540.0;False
+DIANA;Exito;Arroz DIANA blanco más fibra (1000 gr);$ 7.400;arroz diana blanco ms fibra 1000 g;7400.0;False
+DIANA;Exito;Frijol DIANA blanquillo (400 gr);$ 6.170;frijol diana blanquillo 400 g;6170.0;False
+DIANA;Exito;Lenteja DIANA cuidadosamente seleccionadas (3000 gr);$ 18.700;lenteja diana cuidadosamente seleccionadas 3000 g;18700.0;False
+DIANA;Carulla;Arroz DIANA blanco premium (2500 gr);$ 17.600;arroz diana blanco premium 2500 g;17600.0;False
+DIANA;Carulla;Arroz DIANA blanco premium (1000 gr);$ 7.100;arroz diana blanco premium 1000 g;7100.0;False
+DIANA;Carulla;Lenteja DIANA cuidadosamente seleccionadas (500 gr);$ 4.100;lenteja diana cuidadosamente seleccionadas 500 g;4100.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (5000 gr);$ 19.950;arroz diana blanco vitamor 5000 g;19950.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (1000 gr);$ 4.100;arroz diana blanco vitamor 1000 g;4100.0;False
+DIANA;Carulla;Arroz DIANA blanco premium (4000 gr);$ 29.800;arroz diana blanco premium 4000 g;29800.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (3000 gr);$ 12.600;arroz diana blanco vitamor 3000 g;12600.0;False
+DIANA;Carulla;Garbanzo DIANA cuidadosamente seleccionados (500 gr);$ 4.200;garbanzo diana cuidadosamente seleccionados 500 g;4200.0;False
+DIANA;Carulla;Frijol DIANA cargamanto (500 gr);$ 8.400;frijol diana cargamanto 500 g;8400.0;False
+DIANA;Carulla;Arroz DIANA cosecha especial (1000 gr);$ 11.720;arroz diana cosecha especial 1000 g;11720.0;False
+DIANA;Carulla;Arroz DIANA integral (1000 gr);$ 7.600;arroz diana integal 1000 g;7600.0;False
+DIANA;Carulla;Lenteja DIANA cuidadosamente seleccionadas (1000 gr);$ 7.140;lenteja diana cuidadosamente seleccionadas 1000 g;7140.0;False
+DIANA;Carulla;Maíz DIANA pira (500 gr);$ 2.870;maz diana pira 500 g;2870.0;False
+DIANA;Carulla;Frijol DIANA bola roja (1000 gr);$ 24.850;frijol diana bola roja 1000 g;24850.0;False
+DIANA;Carulla;Frijol DIANA radical cuidadosamente seleccionado (500 gr);$ 12.600;frijol diana radical cuidadosamente seleccionado 500 g;12600.0;False
+DIANA;Carulla;Harina DIANA maíz blanco (1000 gr);$ 3.300;harina diana maz blanco 1000 g;3300.0;False
+DIANA;Carulla;Aceite de girasol DIANA canola premium (900 ml);(Ml a $ 21,33);aceite de girasol diana canola premium 900 ml;2133.0;False
+DIANA;Carulla;Aceite DIANA con vitaminas A y D (900 ml);(Ml a $ 8,96);aceite diana con vitaminas a y d 900 ml;896.0;False
+DIANA;Carulla;Arroz DIANA blanco arroba (12500 gr);$ 44.500;arroz diana blanco arroba 12500 g;44500.0;True
+DIANA;Carulla;Arroz DIANA con sabor a coco (500 gr);$ 4.200;arroz diana con sabor a coco 500 g;4200.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (500 gr);$ 2.300;arroz diana blanco vitamor 500 g;2300.0;False
+DIANA;Carulla;Harina DIANA maíz amarillo (1000 gr);$ 3.500;harina diana maz amarillo 1000 g;3500.0;False
+DIANA;Carulla;Arroz DIANA con sabor a coco (1000 gr);$ 6.990;arroz diana con sabor a coco 1000 g;6990.0;False
+DIANA;Carulla;Arroz DIANA con fideos (460 gr);$ 3.700;arroz diana con fideos 460 g;3700.0;False
+DIANA;Carulla;Frijol DIANA calima cuidadosamente seleccionados (1000 gr);$ 16.200;frijol diana calima cuidadosamente seleccionados 1000 g;16200.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (2500 gr);$ 11.700;arroz diana blanco vitamor 2500 g;11700.0;False
+DIANA;Carulla;Frijol DIANA calima cuidadosamente seleccionados (500 gr);$ 6.800;frijol diana calima cuidadosamente seleccionados 500 g;6800.0;False
+DIANA;Carulla;Garbanzo DIANA cuidadosamente seleccionados (1000 gr);$ 8.300;garbanzo diana cuidadosamente seleccionados 1000 g;8300.0;False
+DIANA;Carulla;Arveja DIANA cuidadosamente seleccionadas (500 gr);$ 2.760;arveja diana cuidadosamente seleccionadas 500 g;2760.0;False
+DIANA;Carulla;Aceite de girasol DIANA canola, premium (2000 ml);$ 35.100;aceite de girasol diana canola premium 2000 ml;35100.0;False
+DIANA;Carulla;Aceite de girasol DIANA vegetal (1800 ml);(Ml a $ 14,46);aceite de girasol diana vegetal 1800 ml;1446.0;False
+DIANA;Carulla;Frijol DIANA zaragoza (500 gr);$ 6.900;frijol diana zaragoza 500 g;6900.0;False
+DIANA;Carulla;Arroz DIANA blanco vitamor (10000 gr);$ 44.000;arroz diana blanco vitamor 10000 g;44000.0;True
+DIANA;Carulla;Harina DIANA de maíz blanco extra fina (500 gr);$ 2.300;harina diana de maz blanco extra fina 500 g;2300.0;False
+DIANA;Carulla;Aceite DIANA con vitaminas A y D (3000 ml);(Cm3 a $ 8,98);aceite diana con vitaminas a y d 3000 ml;3898.0;False
+DIANA;Carulla;Arroz DIANA cosecha especial (2500 gr);$ 27.300;arroz diana cosecha especial 2500 g;27300.0;False
+DIANA;Carulla;Aceite DIANA con vitaminas A y D (450 ml);(Ml a $ 16,22);aceite diana con vitaminas a y d 450 ml;1622.0;False
+DIANA;Carulla;Aceite DIANA con vitaminas A y D (250 ml);(Ml a $ 15,20);aceite diana con vitaminas a y d 250 ml;1520.0;False
+DIANA;Carulla;Arroz DIANA blanco más fibra (1000 gr);$ 6.500;arroz diana blanco ms fibra 1000 g;6500.0;False
+DIANA;Carulla;Aceite DIANA con vitaminas A y D (2000 ml);(Ml a $ 12,11);aceite diana con vitaminas a y d 2000 ml;1211.0;False
+DIANA;Carulla;Aceite de girasol DIANA vegetal (900 ml);(Ml a $ 21,56);aceite de girasol diana vegetal 900 ml;2156.0;False
+DIANA;Carulla;Arroz DIANA cosecha especial (500 gr);$ 6.200;arroz diana cosecha especial 500 g;6200.0;False
+DIANA;Carulla;Maíz DIANA pira (1 und);$ 6.400;maz diana pira 1 und;6400.0;False
+DIANA;Carulla;Frijol DIANA blanquillo (400 gr);$ 6.200;frijol diana blanquillo 400 g;6200.0;False
+DIANA;Carulla;Frijol DIANA frijol bola roja (3000 gr);$ 71.200;frijol diana frijol bola roja 3000 g;71200.0;True
+DORIA;Exito;Pastas DORIA corriente (500 gr);$ 4.300;pastas doria corriente 500 g;4300.0;False
+DORIA;Exito;Pastas DORIA corriente fideo (250 gr);$ 2.151;pastas doria corriente fideo 250 g;2151.0;False
+DORIA;Exito;Pastas DORIA spaghetti clásico (1000 gr);$ 6.435;pastas doria spaghetti clsico 1000 g;6435.0;False
+DORIA;Exito;Pastas DORIA tornillos (250 gr);$ 2.151;pastas doria tornillos 250 g;2151.0;False
+DORIA;Exito;Pastas DORIA conchitas (250 gr);$ 1.881;pastas doria conchitas 250 g;1881.0;False
+DORIA;Exito;Pastas DORIA spaghetti clásica (250 gr);$ 1.881;pastas doria spaghetti clsica 250 g;1881.0;False
+DORIA;Exito;Pastas DORIA macarrón (250 gr);$ 2.151;pastas doria macarrn 250 g;2151.0;False
+DORIA;Exito;Pastas DORIA cabello de ángel clásico (500 gr);$ 4.500;pastas doria cabello de ngel clsico 500 g;4500.0;False
+DORIA;Exito;Pastas DORIA tornillos con verduras (500 gr);$ 5.990;pastas doria tornillos con verduras 500 g;5990.0;False
+DORIA;Exito;Pastas DORIA corriente conchas (250 gr);$ 2.151;pastas doria corriente conchas 250 g;2151.0;False
+DORIA;Exito;Pastas DORIA letras clásica (250 gr);$ 1.881;pastas doria letras clsica 250 g;1881.0;False
+DORIA;Exito;Macarrones DORIA con salsa de queso (210 gr);$ 4.383;macarrones doria con salsa de queso 210 g;4383.0;False
+DORIA;Exito;Pastas DORIA fideos clásicos (500 gr);$ 4.650;pastas doria fideos clsicos 500 g;4650.0;False
+DORIA;Exito;Pastas DORIA cabello de ángel (250 gr);$ 1.881;pastas doria cabello de ngel 250 g;1881.0;False
+DORIA;Exito;Tallarín DORIA clásico (250 gr);$ 2.151;tallarn doria clsico 250 g;2151.0;False
+DORIA;Exito;Pack X2 Spaguetti Clásico Doria;$ 12.870;pack x2 spaguetti clsico doria;12870.0;False
+DORIA;Exito;Pastas DORIA codos (250 gr);$ 1.881;pastas doria codos 250 g;1881.0;False
+DORIA;Exito;Pastas DORIA tornillos sin gluten (250 gr);$ 8.946;pastas doria tornillos sin gluten 250 g;8946.0;False
+DORIA;Exito;Pastas DORIA spaghetti integral (500 gr);$ 6.228;pastas doria spaghetti integal 500 g;6228.0;False
+DORIA;Exito;Pastas DORIA spaghetti sin gluten (250 gr);$ 11.250;pastas doria spaghetti sin gluten 250 g;11250.0;False
+DORIA;Exito;Quinua DORIA en grano (300 gr);$ 12.050;quinua doria en gano 300 g;12050.0;False
+DORIA;Exito;Pastas DORIA tornillo verduras (250 gr);$ 2.988;pastas doria tornillo verduras 250 g;2988.0;False
+DORIA;Exito;Pastas DORIA lasaña precocida (200 gr);$ 6.786;pastas doria lasaa precocida 200 g;6786.0;False
+DORIA;Exito;Pastas DORIA conchas (500 gr);$ 4.500;pastas doria conchas 500 g;4500.0;False
+DORIA;Exito;Pastas DORIA ravioli de carne (250 gr);$ 11.385;pastas doria ravioli de carne 250 g;11385.0;False
+DORIA;Exito;Pastas DORIA macarrón (250 gr);$ 2.052;pastas doria macarrn 250 g;2052.0;False
+DORIA;Exito;Pastas DORIA lasagna (400 gr);$ 13.300;pastas doria lasagna 400 g;13300.0;False
+DORIA;Exito;Pastas DORIA bucatini (250 gr);$ 2.151;pastas doria bucatini 250 g;2151.0;False
+DORIA;Exito;Chía DORIA en grano (250 gr);$ 23.950;cha doria en gano 250 g;23950.0;False
+DORIA;Exito;Pastas DORIA de arroz (400 gr);$ 11.750;pastas doria de arroz 400 g;11750.0;False
+DORIA;Exito;Pastas DORIA ravioli rellenos de queso (250 gr);$ 11.385;pastas doria ravioli rellenos de queso 250 g;11385.0;False
+DORIA;Exito;Pastas DORIA ravioli rellenos de pollo (250 gr);$ 11.385;pastas doria ravioli rellenos de pollo 250 g;11385.0;False
+DORIA;Exito;Pastas DORIA vermicelli sin gluten arroz (200 gr);$ 7.362;pastas doria vermicelli sin gluten arroz 200 g;7362.0;False
+DORIA;Exito;Quinua DORIA en hojuelas (200 gr);$ 12.750;quinua doria en hojuelas 200 g;12750.0;False
+DORIA;Exito;Pastas DORIA de arroz sin gluten quinoa y chía (250 gr);$ 11.520;pastas doria de arroz sin gluten quinoa y cha 250 g;11520.0;False
+DORIA;Exito;Pastas DORIA spaghetti sin gluten con quinua (250 gr);$ 14.900;pastas doria spaghetti sin gluten con quinua 250 g;14900.0;False
+DORIA;Exito;Pastas DORIA de arroz lasaña sin gluten (200 gr);$ 18.585;pastas doria de arroz lasaa sin gluten 200 g;18585.0;False
+DORIA;Exito;Pastas DORIA sin gluten codos, arroz y lentejas (220 gr);$ 14.625;pastas doria sin gluten codos arroz y lentejas 220 g;14625.0;False
+DORIA;Exito;Pasta Gts Crema DORIA Amarre (800 gr);$ 7.880;pasta gts crema doria amarre 800 g;7880.0;False
+DORIA;Exito;Pastas DORIA clásica (1500 gr);$ 7.740;pastas doria clsica 1500 g;7740.0;False
+DORIA;Carulla;Pastas DORIA corriente fideo (250 gr);$ 2.390;pastas doria corriente fideo 250 g;2390.0;False
+DORIA;Carulla;Pastas DORIA corriente (500 gr);$ 4.300;pastas doria corriente 500 g;4300.0;False
+DORIA;Carulla;Pastas DORIA spaghetti clásico (1000 gr);$ 7.000;pastas doria spaghetti clsico 1000 g;7000.0;False
+DORIA;Carulla;Pastas DORIA fideos clásicos (500 gr);$ 4.900;pastas doria fideos clsicos 500 g;4900.0;False
+DORIA;Carulla;Pastas DORIA cabello de ángel (250 gr);$ 2.500;pastas doria cabello de ngel 250 g;2500.0;False
+DORIA;Carulla;Pastas DORIA corriente conchas (250 gr);$ 2.400;pastas doria corriente conchas 250 g;2400.0;False
+DORIA;Carulla;Pastas DORIA spaghetti clásica (250 gr);$ 2.390;pastas doria spaghetti clsica 250 g;2390.0;False
+DORIA;Carulla;Pastas DORIA tornillos sin gluten (250 gr);$ 12.250;pastas doria tornillos sin gluten 250 g;12250.0;False
+DORIA;Carulla;Quinua DORIA en grano (300 gr);$ 10.600;quinua doria en gano 300 g;10600.0;False
+DORIA;Carulla;Macarrones DORIA con salsa de queso (210 gr);$ 5.100;macarrones doria con salsa de queso 210 g;5100.0;False
+DORIA;Carulla;Pastas DORIA spaghetti sin gluten (250 gr);$ 12.500;pastas doria spaghetti sin gluten 250 g;12500.0;False
+DORIA;Carulla;Pastas DORIA tornillos con verduras (500 gr);$ 5.700;pastas doria tornillos con verduras 500 g;5700.0;False
+DORIA;Carulla;Pastas DORIA macarrón (250 gr);$ 2.500;pastas doria macarrn 250 g;2500.0;False
+DORIA;Carulla;Pastas DORIA conchitas (250 gr);$ 2.400;pastas doria conchitas 250 g;2400.0;False
+DORIA;Carulla;Pastas DORIA letras clásica (250 gr);$ 2.300;pastas doria letras clsica 250 g;2300.0;False
+DORIA;Carulla;Pastas DORIA tornillos (250 gr);$ 2.390;pastas doria tornillos 250 g;2390.0;False
+DORIA;Carulla;Pastas DORIA spaghetti integral (500 gr);$ 7.600;pastas doria spaghetti integal 500 g;7600.0;False
+DORIA;Carulla;Pastas DORIA cabello de ángel clásico (500 gr);$ 4.780;pastas doria cabello de ngel clsico 500 g;4780.0;False
+DORIA;Carulla;Pastas DORIA codos (250 gr);$ 2.200;pastas doria codos 250 g;2200.0;False
+DORIA;Carulla;Pastas DORIA de arroz (400 gr);$ 12.150;pastas doria de arroz 400 g;12150.0;False
+DORIA;Carulla;Pastas DORIA lasaña precocida (200 gr);$ 8.760;pastas doria lasaa precocida 200 g;8760.0;False
+DORIA;Carulla;Pastas DORIA spaghetti sin gluten con quinua (250 gr);$ 16.800;pastas doria spaghetti sin gluten con quinua 250 g;16800.0;False
+DORIA;Carulla;Pastas DORIA lasagna (400 gr);$ 13.800;pastas doria lasagna 400 g;13800.0;False
+DORIA;Carulla;Pastas DORIA vermicelli sin gluten arroz (200 gr);$ 7.480;pastas doria vermicelli sin gluten arroz 200 g;7480.0;False
+DORIA;Carulla;Pastas DORIA ravioli rellenos de queso (250 gr);$ 13.300;pastas doria ravioli rellenos de queso 250 g;13300.0;False
+DORIA;Carulla;Tallarín DORIA clásico (250 gr);$ 2.390;tallarn doria clsico 250 g;2390.0;False
+DORIA;Carulla;Pastas DORIA tornillo verduras (250 gr);$ 3.320;pastas doria tornillo verduras 250 g;3320.0;False
+DORIA;Carulla;Pastas DORIA macarrón (250 gr);$ 2.200;pastas doria macarrn 250 g;2200.0;False
+DORIA;Carulla;Pastas DORIA ravioli de carne (250 gr);$ 13.300;pastas doria ravioli de carne 250 g;13300.0;False
+DORIA;Carulla;Pastas DORIA conchas (500 gr);$ 4.780;pastas doria conchas 500 g;4780.0;False
+DORIA;Carulla;Pastas DORIA de arroz lasaña sin gluten (200 gr);$ 21.700;pastas doria de arroz lasaa sin gluten 200 g;21700.0;False
+DORIA;Carulla;Pastas DORIA sin gluten codos, arroz y lentejas (220 gr);$ 17.600;pastas doria sin gluten codos arroz y lentejas 220 g;17600.0;False
+DORIA;Carulla;Pastas DORIA de arroz sin gluten quinoa y chía (250 gr);$ 12.900;pastas doria de arroz sin gluten quinoa y cha 250 g;12900.0;False
+DORIA;Carulla;Pastas DORIA bucatini (250 gr);$ 2.500;pastas doria bucatini 250 g;2500.0;False
+DORIA;Carulla;Pastas DORIA ravioli rellenos de pollo (250 gr);$ 13.300;pastas doria ravioli rellenos de pollo 250 g;13300.0;False
+DORIA;Carulla;Quinua DORIA en hojuelas (200 gr);$ 11.700;quinua doria en hojuelas 200 g;11700.0;False
+EL-REY;Exito;Ajo EL REY en polvo (55 gr);$ 1.404;ajo el rey en polvo 55 g;1404.0;False
+EL-REY;Exito;Paprika EL REY pura (25 gr);$ 1.539;paprika el rey pura 25 g;1539.0;False
+EL-REY;Exito;Canela EL REY en astilla (11 gr);$ 2.439;canela el rey en astilla 11 g;2439.0;False
+EL-REY;Exito;Color EL REY mezcla de colorantes para alimentos (55 gr);$ 1.404;color el rey mezcla de colorantes para alimentos 55 g;1404.0;False
+EL-REY;Exito;Clavos de olor EL REY especias puras (9 gr);$ 1.458;clavos de olor el rey especias puras 9 g;1458.0;False
+EL-REY;Exito;Ajo EL REY puro natural (25 gr);$ 1.926;ajo el rey puro natural 25 g;1926.0;False
+EL-REY;Exito;Orégano EL REY puro (10 gr);$ 1.539;organo el rey puro 10 g;1539.0;False
+EL-REY;Exito;Canela EL REY en astilla (20 gr);$ 4.374;canela el rey en astilla 20 g;4374.0;False
+EL-REY;Exito;Pimienta EL REY molida (60 gr);$ 3.150;pimienta el rey molida 60 g;3150.0;False
+EL-REY;Exito;Cúrcuma EL REY pura (25 gr);$ 1.989;crcuma el rey pura 25 g;1989.0;False
+EL-REY;Exito;Condimentos EL REY tricompleto mezcla (55 gr);$ 2.088;condimentos el rey tricompleto mezcla 55 g;2088.0;False
+EL-REY;Exito;Finas hierbas EL REY mezcla de especias (15 gr);$ 2.889;finas hierbas el rey mezcla de especias 15 g;2889.0;False
+EL-REY;Exito;Pimienta EL REY pura (25 gr);$ 1.926;pimienta el rey pura 25 g;1926.0;False
+EL-REY;Exito;Sazonador EL REY de caramelo (200 gr);$ 4.869;sazonador el rey de caramelo 200 g;4869.0;False
+EL-REY;Exito;Comino EL REY en polvo (55 gr);$ 3.816;comino el rey en polvo 55 g;3816.0;False
+EL-REY;Exito;Pasta de ajo EL REY mezcla para condimentar (240 gr);$ 5.940;pasta de ajo el rey mezcla para condimentar 240 g;5940.0;False
+EL-REY;Exito;Color EL REY mezcla de colorantes para alimentos (90 gr);$ 2.745;color el rey mezcla de colorantes para alimentos 90 g;2745.0;False
+EL-REY;Exito;Sazonador EL REY con especias (90 gr);$ 2.700;sazonador el rey con especias 90 g;2700.0;False
+EL-REY;Exito;Comino EL REY puro (25 gr);$ 2.223;comino el rey puro 25 g;2223.0;False
+EL-REY;Exito;Condimentos EL REY de achote (60 gr);$ 1.935;condimentos el rey de achote 60 g;1935.0;False
+EL-REY;Exito;Canela EL REY en astilla (15 gr);$ 3.708;canela el rey en astilla 15 g;3708.0;False
+EL-REY;Exito;Jengibre EL REY puro en bolsa (15 gr);$ 2.673;jengibre el rey puro en bolsa 15 g;2673.0;False
+EL-REY;Exito;Condimentos EL REY condimento color bolsa (125 gr);$ 3.267;condimentos el rey condimento color bolsa 125 g;3267.0;False
+EL-REY;Exito;Condimentos EL REY salsina (55 gr);$ 3.348;condimentos el rey salsina 55 g;3348.0;False
+EL-REY;Exito;Laurel EL REY rapi guiso + aceite diana (20 gr);$ 1.863;laurel el rey rapi guiso  aceite diana 20 g;1863.0;False
+EL-REY;Exito;Tomillo EL REY triturado (20 gr);$ 2.547;tomillo el rey triturado 20 g;2547.0;False
+EL-REY;Exito;Canela EL REY pura molida (30 gr);$ 4.959;canela el rey pura molida 30 g;4959.0;False
+EL-REY;Exito;Condimentos EL REY completo (100 gr);$ 4.662;condimentos el rey completo 100 g;4662.0;False
+EL-REY;Exito;Sazonador EL REY mezclas para condimentar (55 gr);$ 1.600;sazonador el rey mezclas para condimentar 55 g;1600.0;False
+EL-REY;Exito;Paprika EL REY pura (40 gr);$ 5.958;paprika el rey pura 40 g;5958.0;False
+EL-REY;Exito;Pasta de ajo EL REY mezcla para condimentar (250 gr);$ 5.400;pasta de ajo el rey mezcla para condimentar 250 g;5400.0;False
+EL-REY;Exito;Color EL REY amarillo (60 gr);$ 1.260;color el rey amarillo 60 g;1260.0;False
+EL-REY;Exito;Curry EL REY especias puras (20 gr);$ 2.916;curry el rey especias puras 20 g;2916.0;False
+EL-REY;Exito;Ajo EL REY molido (48 gr);$ 5.553;ajo el rey molido 48 g;5553.0;False
+EL-REY;Exito;Condimentos EL REY hierbas naturales (50 gr);$ 2.565;condimentos el rey hierbas naturales 50 g;2565.0;False
+EL-REY;Exito;Pasta de cebolla EL REY mezcla para condimentar (230 gr);$ 5.553;pasta de cebolla el rey mezcla para condimentar 230 g;5553.0;False
+EL-REY;Exito;Condimentos EL REY completo (30 gr);$ 1.305;condimentos el rey completo 30 g;1305.0;False
+EL-REY;Exito;Pasta de ajo EL REY mezcla para condimentar (130 gr);$ 4.150;pasta de ajo el rey mezcla para condimentar 130 g;4150.0;False
+EL-REY;Exito;Cúrcuma EL REY premium (39 gr);$ 6.900;crcuma el rey premium 39 g;6900.0;False
+EL-REY;Exito;Pimienta EL REY molida premium (38 gr);$ 6.930;pimienta el rey molida premium 38 g;6930.0;False
+EL-REY;Exito;Finas hierbas EL REY premium (16 gr);$ 6.930;finas hierbas el rey premium 16 g;6930.0;False
+EL-REY;Exito;Cebolla EL REY en pasta (250 gr);$ 6.330;cebolla el rey en pasta 250 g;6330.0;False
+EL-REY;Exito;Condimentos EL REY color rojo (500 gr);$ 12.150;condimentos el rey color rojo 500 g;12150.0;False
+EL-REY;Carulla;Ajo EL REY en polvo (55 gr);$ 1.700;ajo el rey en polvo 55 g;1700.0;False
+EL-REY;Carulla;Canela EL REY en astilla (20 gr);$ 5.100;canela el rey en astilla 20 g;5100.0;False
+EL-REY;Carulla;Paprika EL REY pura (25 gr);$ 1.900;paprika el rey pura 25 g;1900.0;False
+EL-REY;Carulla;Clavos de olor EL REY especias puras (9 gr);$ 1.800;clavos de olor el rey especias puras 9 g;1800.0;False
+EL-REY;Carulla;Pimienta EL REY pura (25 gr);$ 2.300;pimienta el rey pura 25 g;2300.0;False
+EL-REY;Carulla;Orégano EL REY puro (10 gr);$ 1.900;organo el rey puro 10 g;1900.0;False
+EL-REY;Carulla;Pimienta EL REY molida (60 gr);$ 3.900;pimienta el rey molida 60 g;3900.0;False
+EL-REY;Carulla;Canela EL REY pura molida (30 gr);$ 5.600;canela el rey pura molida 30 g;5600.0;False
+EL-REY;Carulla;Canela EL REY en astilla (15 gr);$ 4.400;canela el rey en astilla 15 g;4400.0;False
+EL-REY;Carulla;Color EL REY mezcla de colorantes para alimentos (90 gr);$ 3.100;color el rey mezcla de colorantes para alimentos 90 g;3100.0;False
+EL-REY;Carulla;Cúrcuma EL REY pura (25 gr);$ 2.200;crcuma el rey pura 25 g;2200.0;False
+EL-REY;Carulla;Comino EL REY puro (25 gr);$ 3.000;comino el rey puro 25 g;3000.0;False
+EL-REY;Carulla;Canela EL REY en astilla (11 gr);$ 3.000;canela el rey en astilla 11 g;3000.0;False
+EL-REY;Carulla;Finas hierbas EL REY mezcla de especias (15 gr);$ 3.500;finas hierbas el rey mezcla de especias 15 g;3500.0;False
+EL-REY;Carulla;Ajo EL REY puro natural (25 gr);$ 2.300;ajo el rey puro natural 25 g;2300.0;False
+EL-REY;Carulla;Color EL REY mezcla de colorantes para alimentos (55 gr);$ 1.600;color el rey mezcla de colorantes para alimentos 55 g;1600.0;False
+EL-REY;Carulla;Pasta de ajo EL REY mezcla para condimentar (240 gr);$ 7.100;pasta de ajo el rey mezcla para condimentar 240 g;7100.0;False
+EL-REY;Carulla;Jengibre EL REY puro en bolsa (15 gr);$ 2.700;jengibre el rey puro en bolsa 15 g;2700.0;False
+EL-REY;Carulla;Comino EL REY en polvo (55 gr);$ 4.700;comino el rey en polvo 55 g;4700.0;False
+EL-REY;Carulla;Tomillo EL REY triturado (20 gr);$ 2.700;tomillo el rey triturado 20 g;2700.0;False
+EL-REY;Carulla;Condimentos EL REY tricompleto mezcla (55 gr);$ 2.300;condimentos el rey tricompleto mezcla 55 g;2300.0;False
+EL-REY;Carulla;Pasta de ajo EL REY mezcla para condimentar (250 gr);$ 6.900;pasta de ajo el rey mezcla para condimentar 250 g;6900.0;False
+EL-REY;Carulla;Pasta de ajo EL REY mezcla para condimentar (130 gr);$ 4.500;pasta de ajo el rey mezcla para condimentar 130 g;4500.0;False
+EL-REY;Carulla;Laurel EL REY rapi guiso + aceite diana (20 gr);$ 2.200;laurel el rey rapi guiso  aceite diana 20 g;2200.0;False
+EL-REY;Carulla;Sazonador EL REY con especias (90 gr);$ 3.100;sazonador el rey con especias 90 g;3100.0;False
+EL-REY;Carulla;Pasta de cebolla EL REY mezcla para condimentar (230 gr);$ 6.700;pasta de cebolla el rey mezcla para condimentar 230 g;6700.0;False
+EL-REY;Carulla;Cúrcuma EL REY premium (39 gr);$ 7.500;crcuma el rey premium 39 g;7500.0;False
+EL-REY;Carulla;Condimentos EL REY salsina (55 gr);$ 4.600;condimentos el rey salsina 55 g;4600.0;False
+EL-REY;Carulla;Finas hierbas EL REY premium (16 gr);$ 8.100;finas hierbas el rey premium 16 g;8100.0;False
+EL-REY;Carulla;Ajo EL REY molido (48 gr);$ 6.500;ajo el rey molido 48 g;6500.0;False
+EL-REY;Carulla;Condimentos EL REY condimento color bolsa (125 gr);$ 3.900;condimentos el rey condimento color bolsa 125 g;3900.0;False
+EL-REY;Carulla;Color EL REY amarillo (60 gr);$ 1.600;color el rey amarillo 60 g;1600.0;False
+EL-REY;Carulla;Cebolla EL REY en pasta (250 gr);$ 7.000;cebolla el rey en pasta 250 g;7000.0;False
+EL-REY;Carulla;Curry EL REY especias puras (20 gr);$ 3.500;curry el rey especias puras 20 g;3500.0;False
+EL-REY;Carulla;Condimentos EL REY de achote (60 gr);$ 2.300;condimentos el rey de achote 60 g;2300.0;False
+EL-REY;Carulla;Condimentos EL REY completo (30 gr);$ 1.500;condimentos el rey completo 30 g;1500.0;False
+EL-REY;Carulla;Pimienta EL REY molida premium (38 gr);$ 8.300;pimienta el rey molida premium 38 g;8300.0;False
+EL-REY;Carulla;Sazonador EL REY de caramelo (200 gr);$ 6.500;sazonador el rey de caramelo 200 g;6500.0;False
+EL-REY;Carulla;Condimentos EL REY hierbas naturales (50 gr);$ 3.000;condimentos el rey hierbas naturales 50 g;3000.0;False
+EL-REY;Carulla;Condimentos EL REY color rojo (500 gr);$ 14.200;condimentos el rey color rojo 500 g;14200.0;False
+EL-REY;Carulla;Condimentos EL REY completo (100 gr);$ 5.600;condimentos el rey completo 100 g;5600.0;False
+EL-REY;Carulla;Sazonador EL REY mezclas para condimentar (55 gr);$ 1.800;sazonador el rey mezclas para condimentar 55 g;1800.0;False
+EL-REY;Carulla;Paprika EL REY pura (40 gr);$ 7.200;paprika el rey pura 40 g;7200.0;False
+SAN-JORGE;Exito;Salsa de tomate SAN JORGE doy pack (1000 gr);$ 16.500;salsa de tomate san jorge doy pack 1000 g;16500.0;False
+SAN-JORGE;Exito;Maíz SAN JORGE tierno lata dúo (230 gr);$ 12.150;maz san jorge tierno lata do 230 g;12150.0;False
+SAN-JORGE;Exito;Mostaza SAN JORGE aderezo para adobar y sazonar (100 gr);$ 3.390;mostaza san jorge aderezo para adobar y sazonar 100 g;3390.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de frutos rojos (200 gr);$ 5.751;mermelada san jorge de frutos rojos 200 g;5751.0;False
+SAN-JORGE;Exito;Salsa negra SAN JORGE doy pack (100 ml);(Ml a $ 25,20);salsa nega san jorge doy pack 100 ml;2520.0;False
+SAN-JORGE;Exito;Maíz SAN JORGE tierno en lata (204 gr);$ 8.010;maz san jorge tierno en lata 204 g;8010.0;False
+SAN-JORGE;Exito;Frijoles SAN JORGE antioqueños con tocino lata (300 gr);$ 9.060;frijoles san jorge antioqueos con tocino lata 300 g;9060.0;False
+SAN-JORGE;Exito;Mostaza SAN JORGE doy pack (200 gr);$ 7.120;mostaza san jorge doy pack 200 g;7120.0;False
+SAN-JORGE;Exito;Salsa BBQ SAN JORGE original (1000 gr);$ 23.450;salsa bbq san jorge original 1000 g;23450.0;False
+SAN-JORGE;Exito;Salsa BBQ SAN JORGE original (200 gr);$ 7.630;salsa bbq san jorge original 200 g;7630.0;False
+SAN-JORGE;Exito;Arveja SAN JORGE con zanahoria lata sin conservantes (348 gr);$ 7.270;arveja san jorge con zanahoria lata sin conservantes 348 g;7270.0;False
+SAN-JORGE;Exito;Lentejas Con Zanahoria Y Papa SAN JORGE 300 gr;$ 7.750;lentejas con zanahoria y papa san jorge 300 g;7750.0;False
+SAN-JORGE;Exito;Mayonesa SAN JORGE doy pack (1000 gr);$ 18.495;mayonesa san jorge doy pack 1000 g;18495.0;False
+SAN-JORGE;Exito;Vinagre blanco SAN JORGE multiusos (500 ml);(Ml a $ 8,50);vinage blanco san jorge multiusos 500 ml;850.0;False
+SAN-JORGE;Exito;Salsa para carnes SAN JORGE botella (185 gr);$ 8.910;salsa para carnes san jorge botella 185 g;8910.0;False
+SAN-JORGE;Exito;Salsa SAN JORGE Teriyaki Pet (190 gr);$ 6.290;salsa san jorge teriyaki pet 190 g;6290.0;False
+SAN-JORGE;Exito;Arveja SAN JORGE con zanahoria lata sin conservantes (210 gr);$ 11.250;arveja san jorge con zanahoria lata sin conservantes 210 g;11250.0;False
+SAN-JORGE;Exito;Frijoles SAN JORGE antioqueños con tocino lata (580 gr);$ 16.250;frijoles san jorge antioqueos con tocino lata 580 g;16250.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de mora (200 gr);$ 7.140;mermelada san jorge de mora 200 g;7140.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de fresa (200 gr);$ 6.354;mermelada san jorge de fresa 200 g;6354.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de piña (400 gr);$ 9.890;mermelada san jorge de pia 400 g;9890.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de mora (400 gr);$ 9.890;mermelada san jorge de mora 400 g;9890.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de piña (200 gr);$ 6.426;mermelada san jorge de pia 200 g;6426.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de fresa (400 gr);$ 11.150;mermelada san jorge de fresa 400 g;11150.0;False
+SAN-JORGE;Exito;Mayonesa SAN JORGE doy pack (200 gr);$ 5.660;mayonesa san jorge doy pack 200 g;5660.0;False
+SAN-JORGE;Exito;Garbanzos SAN JORGE 180 gr;$ 6.930;garbanzos san jorge 180 g;6930.0;False
+SAN-JORGE;Exito;Salsa BBQ SAN JORGE original (400 gr);$ 11.400;salsa bbq san jorge original 400 g;11400.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de frutos rojos (400 gr);$ 10.850;mermelada san jorge de frutos rojos 400 g;10850.0;False
+SAN-JORGE;Exito;Arveja SAN JORGE sabanera sin conservante (220 gr);$ 8.109;arveja san jorge sabanera sin conservante 220 g;8109.0;False
+SAN-JORGE;Exito;Pasta de tomate SAN JORGE doy pack (200 gr);$ 7.390;pasta de tomate san jorge doy pack 200 g;7390.0;False
+SAN-JORGE;Exito;Salsa BBQ SAN JORGE panelera (200 gr);$ 7.497;salsa bbq san jorge panelera 200 g;7497.0;False
+SAN-JORGE;Exito;Salsa soya SAN JORGE botella (160 ml);(Ml a $ 34,54);salsa soya san jorge botella 160 ml;3454.0;False
+SAN-JORGE;Exito;Salsa negra SAN JORGE botella (160 ml);(Ml a $ 32,95);salsa nega san jorge botella 160 ml;3295.0;False
+SAN-JORGE;Exito;Maíz SAN JORGE tierno lata pack (612 gr);$ 24.255;maz san jorge tierno lata pack 612 g;24255.0;False
+SAN-JORGE;Exito;Colada SAN JORGE sabor a fresa (30 gr);$ 1.890;colada san jorge sabor a fresa 30 g;1890.0;False
+SAN-JORGE;Exito;Salsa mostamiel SAN JORGE doy pack (200 gr);$ 8.390;salsa mostamiel san jorge doy pack 200 g;8390.0;False
+SAN-JORGE;Exito;Salsa de tomate SAN JORGE doy pack (380 gr);$ 9.170;salsa de tomate san jorge doy pack 380 g;9170.0;False
+SAN-JORGE;Exito;Salsa de tomate SAN JORGE doy pack (170 gr);$ 2.934;salsa de tomate san jorge doy pack 170 g;2934.0;False
+SAN-JORGE;Exito;Arveja SAN JORGE con zanahoria en latadas (110 gr);$ 4.338;arveja san jorge con zanahoria en latadas 110 g;4338.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE de naranja (290 gr);$ 15.850;mermelada san jorge de naranja 290 g;15850.0;False
+SAN-JORGE;Exito;Salsa inglesa SAN JORGE botella (160 ml);(Ml a $ 36,94);salsa inglesa san jorge botella 160 ml;3694.0;False
+SAN-JORGE;Exito;Frijoles SAN JORGE con plátano maduro lata (300 gr);$ 11.100;frijoles san jorge con pltano maduro lata 300 g;11100.0;False
+SAN-JORGE;Exito;Arveja SAN JORGE con zanahoria lata sin conservantes (180 gr);$ 6.080;arveja san jorge con zanahoria lata sin conservantes 180 g;6080.0;False
+SAN-JORGE;Exito;Mayonesa SAN JORGE doy pack (380 gr);$ 10.150;mayonesa san jorge doy pack 380 g;10150.0;False
+SAN-JORGE;Exito;Mermelada SAN JORGE frambuesa mora (290 gr);$ 15.850;mermelada san jorge frambuesa mora 290 g;15850.0;False
+SAN-JORGE;Exito;Colada SAN JORGE sabor a vainilla (30 gr);$ 1.890;colada san jorge sabor a vainilla 30 g;1890.0;False
+SAN-JORGE;Exito;Salsa de ají SAN JORGE toque picante (160 ml);(Ml a $ 35,44);salsa de aj san jorge toque picante 160 ml;3544.0;False
+SAN-JORGE;Exito;Colada SAN JORGE alimento multicereal (200 gr);$ 8.340;colada san jorge alimento multicereal 200 g;8340.0;False
+SAN-JORGE;Exito;Ensalada campesina SAN JORGE sin conservantes (220 gr);$ 9.370;ensalada campesina san jorge sin conservantes 220 g;9370.0;False
+SAN-JORGE;Exito;FRIJOL CARAOTA SAN JORGE SAN JORGE FRIJOL CARAOTA SAN JORGE (180 gr);$ 6.370;frijol caraota san jorge san jorge frijol caraota san jorge 180 g;6370.0;False
+SAN-JORGE;Exito;Salsa de ajo SAN JORGE para adobar y sazonar (100 gr);$ 5.157;salsa de ajo san jorge para adobar y sazonar 100 g;5157.0;False
+SAN-JORGE;Exito;Vinagreta SAN JORGE con aguacate y cilantro (300 gr);$ 15.900;vinageta san jorge con aguacate y cilantro 300 g;15900.0;False
+SAN-JORGE;Exito;Salsa rosada SAN JORGE doy pack (200 gr);$ 8.530;salsa rosada san jorge doy pack 200 g;8530.0;False
+SAN-JORGE;Exito;Mermelada De Mora SAN JORGE (400 gr);$ 10.755;mermelada de mora san jorge 400 g;10755.0;False
+SAN-JORGE;Exito;Maíz SAN JORGE tierno en lata (360 gr);$ 14.445;maz san jorge tierno en lata 360 g;14445.0;False
+SAN-JORGE;Exito;Salsa mayostaza SAN JORGE doy pack (200 gr);$ 6.768;salsa mayostaza san jorge doy pack 200 g;6768.0;False
+SAN-JORGE;Exito;Mayonesa SAN JORGE doy pack (600 gr);$ 13.635;mayonesa san jorge doy pack 600 g;13635.0;False
+SAN-JORGE;Exito;SALSA CON QUESO CHEDDAR S/J DP x 200 g SAN JORGE 200 gr;$ 12.060;salsa con queso cheddar sj dp x 200 g san jorge 200 g;12060.0;False
+SAN-JORGE;Exito;Vinagreta SAN JORGE botella (290 gr);$ 12.000;vinageta san jorge botella 290 g;12000.0;False
+SAN-JORGE;Exito;Salsa de tomate SAN JORGE doy pack (600 gr);$ 11.295;salsa de tomate san jorge doy pack 600 g;11295.0;False
+SAN-JORGE;Exito;Sazonado Todo SAN JORGE Liquido (180 gr);$ 7.550;sazonado todo san jorge liquido 180 g;7550.0;False
+SAN-JORGE;Exito;Mermelada De Piña SAN JORGE (400 gr);$ 11.430;mermelada de pia san jorge 400 g;11430.0;False
+SAN-JORGE;Exito;Frijoles con tocino SAN JORGE Antioqueños lata (600 gr);$ 15.210;frijoles con tocino san jorge antioqueos lata 600 g;15210.0;False
+SAN-JORGE;Exito;Salsa napolitana SAN JORGE doy pack (200 gr);$ 6.894;salsa napolitana san jorge doy pack 200 g;6894.0;False
+SAN-JORGE;Exito;Salsa rosada SAN JORGE doy pack (380 gr);$ 12.645;salsa rosada san jorge doy pack 380 g;12645.0;False
+SAN-JORGE;Carulla;Maíz SAN JORGE tierno lata dúo (230 gr);$ 12.390;maz san jorge tierno lata do 230 g;12390.0;False
+SAN-JORGE;Carulla;Maíz SAN JORGE tierno en lata (204 gr);$ 9.400;maz san jorge tierno en lata 204 g;9400.0;False
+SAN-JORGE;Carulla;Garbanzos SAN JORGE 180 gr;$ 7.300;garbanzos san jorge 180 g;7300.0;False
+SAN-JORGE;Carulla;Salsa de tomate SAN JORGE doy pack (1000 gr);$ 15.600;salsa de tomate san jorge doy pack 1000 g;15600.0;False
+SAN-JORGE;Carulla;Vinagre blanco SAN JORGE multiusos (500 ml);(Ml a $ 8,85);vinage blanco san jorge multiusos 500 ml;885.0;False
+SAN-JORGE;Carulla;Frijoles SAN JORGE antioqueños con tocino lata (300 gr);$ 9.630;frijoles san jorge antioqueos con tocino lata 300 g;9630.0;False
+SAN-JORGE;Carulla;Lentejas Con Zanahoria Y Papa SAN JORGE 300 gr;$ 8.200;lentejas con zanahoria y papa san jorge 300 g;8200.0;False
+SAN-JORGE;Carulla;Mostaza SAN JORGE aderezo para adobar y sazonar (100 gr);$ 3.400;mostaza san jorge aderezo para adobar y sazonar 100 g;3400.0;False
+SAN-JORGE;Carulla;Pasta de tomate SAN JORGE doy pack (200 gr);$ 7.390;pasta de tomate san jorge doy pack 200 g;7390.0;False
+SAN-JORGE;Carulla;Arveja SAN JORGE con zanahoria lata sin conservantes (210 gr);$ 11.400;arveja san jorge con zanahoria lata sin conservantes 210 g;11400.0;False
+SAN-JORGE;Carulla;Salsa Con Ajo SAN JORGE 200 gr;$ 10.100;salsa con ajo san jorge 200 g;10100.0;False
+SAN-JORGE;Carulla;Salsa SAN JORGE Teriyaki Pet (190 gr);$ 7.000;salsa san jorge teriyaki pet 190 g;7000.0;False
+SAN-JORGE;Carulla;Arveja SAN JORGE sabanera sin conservante (220 gr);$ 10.500;arveja san jorge sabanera sin conservante 220 g;10500.0;False
+SAN-JORGE;Carulla;Mostaza SAN JORGE doy pack (200 gr);$ 7.700;mostaza san jorge doy pack 200 g;7700.0;False
+SAN-JORGE;Carulla;Salsa BBQ SAN JORGE original (400 gr);$ 12.300;salsa bbq san jorge original 400 g;12300.0;False
+SAN-JORGE;Carulla;Salsa BBQ SAN JORGE original (1000 gr);$ 22.700;salsa bbq san jorge original 1000 g;22700.0;False
+SAN-JORGE;Carulla;Salsa mostamiel SAN JORGE doy pack (200 gr);$ 8.800;salsa mostamiel san jorge doy pack 200 g;8800.0;False
+SAN-JORGE;Carulla;Arveja SAN JORGE con zanahoria lata sin conservantes (348 gr);$ 8.470;arveja san jorge con zanahoria lata sin conservantes 348 g;8470.0;False
+SAN-JORGE;Carulla;Salsa negra SAN JORGE doy pack (100 ml);(Ml a $ 28,00);salsa nega san jorge doy pack 100 ml;2800.0;False
+SAN-JORGE;Carulla;FRIJOL CARAOTA SAN JORGE SAN JORGE FRIJOL CARAOTA SAN JORGE (180 gr);$ 6.400;frijol caraota san jorge san jorge frijol caraota san jorge 180 g;6400.0;False
+SAN-JORGE;Carulla;Salsa inglesa SAN JORGE botella (160 ml);(Ml a $ 37,50);salsa inglesa san jorge botella 160 ml;3750.0;False
+SAN-JORGE;Carulla;Arveja SAN JORGE con zanahoria lata sin conservantes (180 gr);$ 5.800;arveja san jorge con zanahoria lata sin conservantes 180 g;5800.0;False
+SAN-JORGE;Carulla;Frijoles SAN JORGE con plátano maduro lata (300 gr);$ 9.200;frijoles san jorge con pltano maduro lata 300 g;9200.0;False
+SAN-JORGE;Carulla;Ensalada campesina SAN JORGE sin conservantes (220 gr);$ 9.600;ensalada campesina san jorge sin conservantes 220 g;9600.0;False
+SAN-JORGE;Carulla;Salsa soya SAN JORGE botella (160 ml);(Ml a $ 33,75);salsa soya san jorge botella 160 ml;3375.0;False
+SAN-JORGE;Carulla;Salsa negra SAN JORGE botella (160 ml);(Ml a $ 35,16);salsa nega san jorge botella 160 ml;3516.0;False
+SAN-JORGE;Carulla;Mayonesa SAN JORGE doy pack (200 gr);$ 5.800;mayonesa san jorge doy pack 200 g;5800.0;False
+SAN-JORGE;Carulla;Maíz SAN JORGE tierno lata pack (612 gr);$ 30.300;maz san jorge tierno lata pack 612 g;30300.0;False
+SAN-JORGE;Carulla;Vinagreta SAN JORGE con aguacate y cilantro (300 gr);$ 16.100;vinageta san jorge con aguacate y cilantro 300 g;16100.0;False
+SAN-JORGE;Carulla;Salsa de tomate SAN JORGE doy pack (600 gr);$ 12.700;salsa de tomate san jorge doy pack 600 g;12700.0;False
+SAN-JORGE;Carulla;Vinagreta SAN JORGE botella (290 gr);$ 13.100;vinageta san jorge botella 290 g;13100.0;False
+SAN-JORGE;Carulla;Maíz SAN JORGE tierno en lata (360 gr);$ 16.400;maz san jorge tierno en lata 360 g;16400.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE con trocitos de manzana (145 gr);$ 5.500;compota san jorge con trocitos de manzana 145 g;5500.0;False
+SAN-JORGE;Carulla;Frijoles SAN JORGE antioqueños con tocino lata (580 gr);$ 15.000;frijoles san jorge antioqueos con tocino lata 580 g;15000.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE mango (103 ml);(Ml a $ 50,29);compota san jorge mango 103 ml;5029.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE con trocitos de mango (145 gr);$ 5.460;compota san jorge con trocitos de mango 145 g;5460.0;False
+SAN-JORGE;Carulla;Colada SAN JORGE alimento multicereal (200 gr);$ 8.600;colada san jorge alimento multicereal 200 g;8600.0;False
+SAN-JORGE;Carulla;Salsa de ají SAN JORGE toque picante (160 ml);(Ml a $ 36,09);salsa de aj san jorge toque picante 160 ml;3609.0;False
+SAN-JORGE;Carulla;Salsa de tomate SAN JORGE doy pack (380 gr);$ 9.700;salsa de tomate san jorge doy pack 380 g;9700.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE pera (104 ml);(Ml a $ 42,31);compota san jorge pera 104 ml;4231.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE melocotón (113 gr);$ 5.180;compota san jorge melocotn 113 g;5180.0;False
+SAN-JORGE;Carulla;Arveja SAN JORGE con zanahoria en latadas (110 gr);$ 5.400;arveja san jorge con zanahoria en latadas 110 g;5400.0;False
+SAN-JORGE;Carulla;Salsa de tomate SAN JORGE doy pack (170 gr);$ 3.300;salsa de tomate san jorge doy pack 170 g;3300.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE manzana (113 gr);$ 4.400;compota san jorge manzana 113 g;4400.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE sabores surtidos x3und (339 gr);$ 15.000;compota san jorge sabores surtidos x3und 339 g;15000.0;False
+SAN-JORGE;Carulla;Salsa rosada SAN JORGE doy pack (380 gr);$ 15.200;salsa rosada san jorge doy pack 380 g;15200.0;False
+SAN-JORGE;Carulla;Sazonado Todo SAN JORGE Liquido (180 gr);$ 7.700;sazonado todo san jorge liquido 180 g;7700.0;False
+SAN-JORGE;Carulla;Salsa BBQ SAN JORGE panelera (200 gr);$ 8.500;salsa bbq san jorge panelera 200 g;8500.0;False
+SAN-JORGE;Carulla;Salsa mayostaza SAN JORGE doy pack (200 gr);$ 7.300;salsa mayostaza san jorge doy pack 200 g;7300.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE sabores surtidos x6und (678 gr);$ 28.900;compota san jorge sabores surtidos x6und 678 g;28900.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE manzana (90 gr);$ 4.980;compota san jorge manzana 90 g;4980.0;False
+SAN-JORGE;Carulla;Compota SAN JORGE mango (90 gr);$ 5.100;compota san jorge mango 90 g;5100.0;False
+SAN-JORGE;Carulla;Salsa de ajo SAN JORGE para adobar y sazonar (100 gr);$ 5.730;salsa de ajo san jorge para adobar y sazonar 100 g;5730.0;False
+SAN-JORGE;Carulla;Salsa para carnes SAN JORGE botella (185 gr);$ 8.790;salsa para carnes san jorge botella 185 g;8790.0;False
+SAN-JORGE;Carulla;Mayonesa SAN JORGE doy pack (380 gr);$ 10.700;mayonesa san jorge doy pack 380 g;10700.0;False
+SAN-JORGE;Carulla;Mayonesa SAN JORGE doy pack (1000 gr);$ 22.200;mayonesa san jorge doy pack 1000 g;22200.0;False
+SAN-JORGE;Carulla;Mayonesa SAN JORGE doy pack (600 gr);$ 15.400;mayonesa san jorge doy pack 600 g;15400.0;False
+SAN-JORGE;Carulla;SALSA CON QUESO CHEDDAR S/J DP x 200 g SAN JORGE 200 gr;$ 11.000;salsa con queso cheddar sj dp x 200 g san jorge 200 g;11000.0;False
+SAN-JORGE;Carulla;Salsa BBQ SAN JORGE original (85 gr);$ 2.140;salsa bbq san jorge original 85 g;2140.0;False
+SAN-JORGE;Carulla;Salsa rosada SAN JORGE doy pack (200 gr);$ 8.300;salsa rosada san jorge doy pack 200 g;8300.0;False
+SAN-JORGE;Carulla;Salsa BBQ SAN JORGE original (200 gr);$ 7.640;salsa bbq san jorge original 200 g;7640.0;False
+ZENU;Exito;Atún ZENU en agua (104 gr);$ 7.200;atn zenu en agua 104 g;7200.0;False
+ZENU;Exito;Lomitos de atún ZENU en aceite de girasol (104 gr);$ 7.200;lomitos de atn zenu en aceite de girasol 104 g;7200.0;False
+ZENU;Exito;Salchicha ZENU viena roja pack (300 gr);$ 16.700;salchicha zenu viena roja pack 300 g;16700.0;False
+ZENU;Exito;Arveja ZENU zanahoria en latas (380 gr);$ 11.200;arveja zenu zanahoria en latas 380 g;11200.0;False
+ZENU;Exito;Maíz ZENU sin azúcar (149 gr);$ 6.471;maz zenu sin azcar 149 g;6471.0;False
+ZENU;Exito;Frijoles ZENU en lata (300 gr);$ 6.093;frijoles zenu en lata 300 g;6093.0;False
+ZENU;Exito;Maíz ZENU lata sin azúcar añadido (298 gr);$ 11.550;maz zenu lata sin azcar aadido 298 g;11550.0;False
+ZENU;Exito;Frijoles ZENU antioqueño sabor tradicional (580 gr);$ 12.510;frijoles zenu antioqueo sabor tradicional 580 g;12510.0;False
+ZENU;Exito;Arveja ZENU con zanahoria en latas (190 gr);$ 5.454;arveja zenu con zanahoria en latas 190 g;5454.0;False
+ZENU;Exito;Arveja ZENU lata sin conservantes (190 gr);$ 4.635;arveja zenu lata sin conservantes 190 g;4635.0;False
+ZENU;Exito;Salchicha ZENU viena en lata (100 gr);$ 6.360;salchicha zenu viena en lata 100 g;6360.0;False
+ZENU;Exito;Chile ZENU con carne (440 gr);$ 17.325;chile zenu con carne 440 g;17325.0;False
+ZENU;Exito;Pollo ZENU con aderezo de mayonesa (160 gr);$ 17.550;pollo zenu con aderezo de mayonesa 160 g;17550.0;False
+ZENU;Exito;Jamoneta Lata ZENU 180 gr;$ 12.015;jamoneta lata zenu 180 g;12015.0;False
+ZENU;Exito;Pollo ZENU con antipasto lata x2und (160 gr);$ 19.485;pollo zenu con antipasto lata x2und 160 g;19485.0;False
+ZENU;Exito;Frijoles ZENU antioqueño sabor tradicional (310 gr);$ 9.500;frijoles zenu antioqueo sabor tradicional 310 g;9500.0;False
+ZENU;Exito;Atún ZENU lomos en aceite de oliva (156 gr);$ 16.920;atn zenu lomos en aceite de oliva 156 g;16920.0;False
+ZENU;Exito;GARBANZO EN LATA ZENU 231 gr;$ 8.163;garbanzo en lata zenu 231 g;8163.0;False
+ZENU;Exito;Albóndigas ZENU de cerdo en salsa napolitana (162 gr);$ 13.250;albndigas zenu de cerdo en salsa napolitana 162 g;13250.0;False
+ZENU;Exito;CARNE DE DIABLO LATA ZENU 80 gr;$ 9.180;carne de diablo lata zenu 80 g;9180.0;False
+ZENU;Exito;Ensalada de vegetales ZENU arveja zanahoria y papa (190 gr);$ 6.795;ensalada de vegetales zenu arveja zanahoria y papa 190 g;6795.0;False
+ZENU;Exito;Arveja ZENU con zanahoria lata (355 gr);$ 8.073;arveja zenu con zanahoria lata 355 g;8073.0;False
+ZENU;Exito;Atún ZENU lomos en aceite girasol (52 gr);$ 17.500;atn zenu lomos en aceite girasol 52 g;17500.0;False
+ZENU;Exito;Atún ZENU lomos en agua (156 gr);$ 16.650;atn zenu lomos en agua 156 g;16650.0;False
+ZENU;Exito;Ensalada de maíz y champiñones ZENU en lata sin conservantes (135 gr);$ 7.821;ensalada de maz y championes zenu en lata sin conservantes 135 g;7821.0;False
+ZENU;Exito;Salchicha ZENU viena de pollo (85 gr);$ 5.724;salchicha zenu viena de pollo 85 g;5724.0;False
+ZENU;Exito;Salchicha ZENU viena sabor limón (85 gr);$ 6.460;salchicha zenu viena sabor limn 85 g;6460.0;False
+ZENU;Exito;JAMONETA LATA ZENU 370 gr;$ 17.640;jamoneta lata zenu 370 g;17640.0;False
+ZENU;Exito;Salchicha ZENU frankfurt lata (270 gr);$ 10.800;salchicha zenu frankfurt lata 270 g;10800.0;False
+ZENU;Exito;Champiñones ZENU tajados (600 gr);$ 26.955;championes zenu tajados 600 g;26955.0;False
+ZENU;Exito;Maíz ZENU lata sin azúcar añadido (260 gr);$ 9.945;maz zenu lata sin azcar aadido 260 g;9945.0;False
+ZENU;Exito;Salchicha ZENU salsa BBQ con sabor a ron (160 gr);$ 8.118;salchicha zenu salsa bbq con sabor a ron 160 g;8118.0;False
+ZENU;Exito;Dip ZENU De Atun (200 gr);$ 19.845;dip zenu de atun 200 g;19845.0;False
+ZENU;Exito;Frijoles ZENU antioqueños enlatados (400 gr);$ 9.315;frijoles zenu antioqueos enlatados 400 g;9315.0;False
+ZENU;Exito;Atún ZENU trozos en aceite de oliva (91 gr);$ 8.631;atn zenu trozos en aceite de oliva 91 g;8631.0;False
+ZENU;Exito;Maíz ZENU atún en agua (401 gr);$ 12.690;maz zenu atn en agua 401 g;12690.0;False
+ZENU;Carulla;Maíz ZENU sin azúcar (149 gr);$ 7.190;maz zenu sin azcar 149 g;7190.0;False
+ZENU;Carulla;Frijoles ZENU antioqueño sabor tradicional (580 gr);$ 13.900;frijoles zenu antioqueo sabor tradicional 580 g;13900.0;False
+ZENU;Carulla;Frijoles ZENU en lata (300 gr);$ 6.740;frijoles zenu en lata 300 g;6740.0;False
+ZENU;Carulla;Salchicha ZENU viena roja pack (300 gr);$ 18.700;salchicha zenu viena roja pack 300 g;18700.0;False
+ZENU;Carulla;Arveja ZENU lata sin conservantes (190 gr);$ 5.600;arveja zenu lata sin conservantes 190 g;5600.0;False
+ZENU;Carulla;Atún ZENU en agua (104 gr);$ 8.400;atn zenu en agua 104 g;8400.0;False
+ZENU;Carulla;Chile ZENU con carne (440 gr);$ 19.450;chile zenu con carne 440 g;19450.0;False
+ZENU;Carulla;Arveja ZENU con zanahoria en latas (190 gr);$ 6.060;arveja zenu con zanahoria en latas 190 g;6060.0;False
+ZENU;Carulla;Pollo ZENU con aderezo de mayonesa (160 gr);$ 16.500;pollo zenu con aderezo de mayonesa 160 g;16500.0;False
+ZENU;Carulla;Arveja ZENU zanahoria en latas (380 gr);$ 11.200;arveja zenu zanahoria en latas 380 g;11200.0;False
+ZENU;Carulla;Salchicha ZENU viena en lata (100 gr);$ 6.900;salchicha zenu viena en lata 100 g;6900.0;False
+ZENU;Carulla;Frijoles ZENU antioqueño sabor tradicional (310 gr);$ 9.700;frijoles zenu antioqueo sabor tradicional 310 g;9700.0;False
+ZENU;Carulla;Maíz ZENU lata sin azúcar añadido (298 gr);$ 13.800;maz zenu lata sin azcar aadido 298 g;13800.0;False
+ZENU;Carulla;Lomitos de atún ZENU en aceite de girasol (104 gr);$ 8.400;lomitos de atn zenu en aceite de girasol 104 g;8400.0;False
+ZENU;Carulla;Atún ZENU lomos en agua (156 gr);$ 17.500;atn zenu lomos en agua 156 g;17500.0;False
+ZENU;Carulla;GARBANZO EN LATA ZENU 231 gr;$ 13.400;garbanzo en lata zenu 231 g;13400.0;False
+ZENU;Carulla;Pollo ZENU con antipasto lata x2und (160 gr);$ 22.800;pollo zenu con antipasto lata x2und 160 g;22800.0;False
+ZENU;Carulla;CARNE DE DIABLO LATA ZENU 80 gr;$ 11.300;carne de diablo lata zenu 80 g;11300.0;False
+ZENU;Carulla;Salchicha ZENU viena de pollo (85 gr);$ 6.500;salchicha zenu viena de pollo 85 g;6500.0;False
+ZENU;Carulla;Atún ZENU lomos en aceite de oliva (156 gr);$ 19.000;atn zenu lomos en aceite de oliva 156 g;19000.0;False
+ZENU;Carulla;Ensalada de vegetales ZENU arveja zanahoria y papa (190 gr);$ 6.590;ensalada de vegetales zenu arveja zanahoria y papa 190 g;6590.0;False
+ZENU;Carulla;Arveja ZENU con zanahoria lata (355 gr);$ 10.400;arveja zenu con zanahoria lata 355 g;10400.0;False
+ZENU;Carulla;Maíz ZENU lata sin azúcar añadido (260 gr);$ 11.400;maz zenu lata sin azcar aadido 260 g;11400.0;False
+ZENU;Carulla;Atún ZENU lomos en aceite girasol (52 gr);$ 18.400;atn zenu lomos en aceite girasol 52 g;18400.0;False
+ZENU;Carulla;Ensalada de maíz y champiñones ZENU en lata sin conservantes (135 gr);$ 8.450;ensalada de maz y championes zenu en lata sin conservantes 135 g;8450.0;False
+ZENU;Carulla;Champiñones ZENU tajados (120 gr);$ 10.800;championes zenu tajados 120 g;10800.0;False
+ZENU;Carulla;JAMONETA LATA ZENU 370 gr;$ 21.000;jamoneta lata zenu 370 g;21000.0;False
+ZENU;Carulla;Maíz ZENU atún en agua (401 gr);$ 14.400;maz zenu atn en agua 401 g;14400.0;False
+ZENU;Carulla;Salchicha ZENU salsa BBQ con sabor a ron (160 gr);$ 9.500;salchicha zenu salsa bbq con sabor a ron 160 g;9500.0;False
+ZENU;Carulla;Jamoneta Lata ZENU 180 gr;$ 13.500;jamoneta lata zenu 180 g;13500.0;False
+ZENU;Carulla;Salchicha ZENU viena sabor limón (85 gr);$ 6.300;salchicha zenu viena sabor limn 85 g;6300.0;False
+ZENU;Carulla;Dip ZENU De Atun (200 gr);$ 22.100;dip zenu de atun 200 g;22100.0;False
+ZENU;Carulla;Champiñones ZENU tajados (600 gr);$ 29.950;championes zenu tajados 600 g;29950.0;False
+ZENU;Carulla;Salchicha ZENU frankfurt lata (270 gr);$ 12.900;salchicha zenu frankfurt lata 270 g;12900.0;False
+CORONA;Exito;Chocolate CORONA tradicional pastillado (450 gr);$ 16.350;chocolate corona tradicional pastillado 450 g;16350.0;False
+CORONA;Exito;Chocolate CORONA clavos y canela (450 gr);$ 14.040;chocolate corona clavos y canela 450 g;14040.0;False
+CORONA;Exito;Chocolate CORONA tradicional (500 gr);$ 15.615;chocolate corona tradicional 500 g;15615.0;False
+CORONA;Exito;Chips de chocolate CORONA semiamargo (250 gr);$ 9.855;chips de chocolate corona semiamargo 250 g;9855.0;False
+CORONA;Exito;Chocolate CORONA clavos y canela (200 gr);$ 8.622;chocolate corona clavos y canela 200 g;8622.0;False
+CORONA;Exito;Cocoa CORONA en polvo (230 gr);$ 17.450;cocoa corona en polvo 230 g;17450.0;False
+CORONA;Exito;Chocolate CORONA instantáneo (200 gr);$ 8.622;chocolate corona instantneo 200 g;8622.0;False
+CORONA;Exito;Chocolate CORONA tradicional (200 gr);$ 8.532;chocolate corona tradicional 200 g;8532.0;False
+CORONA;Exito;Chocolate CORONA tradicional (450 gr);$ 14.715;chocolate corona tradicional 450 g;14715.0;False
+CORONA;Exito;Chocolate CORONA delicatto (142 gr);$ 9.090;chocolate corona delicatto 142 g;9090.0;False
+CORONA;Exito;Chocolate CORONA vainilla pastillado (450 gr);$ 16.155;chocolate corona vainilla pastillado 450 g;16155.0;False
+CORONA;Exito;Cocoa CORONA en polvo (100 gr);$ 8.838;cocoa corona en polvo 100 g;8838.0;False
+CORONA;Exito;Chocolate de Mesa CORONA CHOCOLATE TRADICIONAL (450 gr);$ 14.040;chocolate de mesa corona chocolate tradicional 450 g;14040.0;False
+CORONA;Exito;Cocoa CORONA baja en grasa (230 gr);$ 17.055;cocoa corona baja en gasa 230 g;17055.0;False
+CORONA;Exito;Cobertura de chocolate CORONA negro (500 gr);$ 22.590;cobertura de chocolate corona nego 500 g;22590.0;False
+CORONA;Exito;Mezcla CORONA para pancakes (320 gr);$ 10.300;mezcla corona para pancakes 320 g;10300.0;False
+CORONA;Exito;Chocolate CORONA azúcar endulzado naturalmente (166.4 gr);$ 17.775;chocolate corona azcar endulzado naturalmente 1664 g;17775.0;False
+CORONA;Exito;Cobertura de chocolate CORONA blanco (500 gr);$ 22.590;cobertura de chocolate corona blanco 500 g;22590.0;False
+CORONA;Exito;Chocolate CORONA vainilla pastillado (200 gr);$ 8.469;chocolate corona vainilla pastillado 200 g;8469.0;False
+CORONA;Exito;Chocolate CORONA instantáneo tradicional (950 gr);$ 35.640;chocolate corona instantneo tradicional 950 g;35640.0;False
+CORONA;Exito;Mezcla en polvo CORONA para preparar brownie (350 gr);$ 10.890;mezcla en polvo corona para preparar brownie 350 g;10890.0;False
+CORONA;Exito;Salsa de chocolate CORONA doy pack (250 gr);$ 12.825;salsa de chocolate corona doy pack 250 g;12825.0;False
+CORONA;Exito;Cocoa CORONA baja en grasa (100 gr);$ 10.305;cocoa corona baja en gasa 100 g;10305.0;False
+CORONA;Exito;Chocolate CORONA delicatto (1420 gr);$ 100.800;chocolate corona delicatto 1420 g;100800.0;True
+CORONA;Exito;Chocolate CORONA endulzado con stevia (1664 gr);$ 197.100;chocolate corona endulzado con stevia 1664 g;197100.0;True
+CORONA;Carulla;Chocolate CORONA tradicional pastillado (450 gr);$ 16.600;chocolate corona tradicional pastillado 450 g;16600.0;False
+CORONA;Carulla;Chocolate CORONA clavos y canela (450 gr);$ 15.800;chocolate corona clavos y canela 450 g;15800.0;False
+CORONA;Carulla;Chips de chocolate CORONA semiamargo (250 gr);$ 10.500;chips de chocolate corona semiamargo 250 g;10500.0;False
+CORONA;Carulla;Chocolate CORONA delicatto (142 gr);$ 9.900;chocolate corona delicatto 142 g;9900.0;False
+CORONA;Carulla;Chocolate CORONA tradicional (200 gr);$ 9.100;chocolate corona tradicional 200 g;9100.0;False
+CORONA;Carulla;Cobertura de chocolate CORONA negro (500 gr);$ 26.400;cobertura de chocolate corona nego 500 g;26400.0;False
+CORONA;Carulla;Cocoa CORONA en polvo (230 gr);$ 17.700;cocoa corona en polvo 230 g;17700.0;False
+CORONA;Carulla;Chocolate CORONA azúcar endulzado naturalmente (166.4 gr);$ 19.750;chocolate corona azcar endulzado naturalmente 1664 g;19750.0;False
+CORONA;Carulla;Chocolate CORONA tradicional (500 gr);$ 18.300;chocolate corona tradicional 500 g;18300.0;False
+CORONA;Carulla;Cocoa CORONA baja en grasa (230 gr);$ 18.950;cocoa corona baja en gasa 230 g;18950.0;False
+CORONA;Carulla;Chocolate CORONA clavos y canela (200 gr);$ 9.800;chocolate corona clavos y canela 200 g;9800.0;False
+CORONA;Carulla;Chocolate CORONA instantáneo (200 gr);$ 8.800;chocolate corona instantneo 200 g;8800.0;False
+CORONA;Carulla;Mezcla en polvo CORONA para preparar brownie (350 gr);$ 11.100;mezcla en polvo corona para preparar brownie 350 g;11100.0;False
+CORONA;Carulla;Chocolate de Mesa CORONA CHOCOLATE TRADICIONAL (450 gr);$ 15.600;chocolate de mesa corona chocolate tradicional 450 g;15600.0;False
+CORONA;Carulla;Cocoa CORONA en polvo (100 gr);$ 10.000;cocoa corona en polvo 100 g;10000.0;False
+CORONA;Carulla;Cobertura de chocolate CORONA blanco (500 gr);$ 23.900;cobertura de chocolate corona blanco 500 g;23900.0;False
+CORONA;Carulla;Chocolate CORONA vainilla pastillado (450 gr);$ 18.700;chocolate corona vainilla pastillado 450 g;18700.0;False
+CORONA;Carulla;Cocoa CORONA baja en grasa (100 gr);$ 11.800;cocoa corona baja en gasa 100 g;11800.0;False
+CORONA;Carulla;Chocolate CORONA delicatto (1420 gr);$ 100.800;chocolate corona delicatto 1420 g;100800.0;True
+CORONA;Carulla;Salsa de chocolate CORONA doy pack (250 gr);$ 14.500;salsa de chocolate corona doy pack 250 g;14500.0;False
+CORONA;Carulla;Chocolate CORONA vainilla pastillado (200 gr);$ 9.700;chocolate corona vainilla pastillado 200 g;9700.0;False
+CORONA;Carulla;Chocolate CORONA instantáneo tradicional (950 gr);$ 40.900;chocolate corona instantneo tradicional 950 g;40900.0;False
+CORONA;Carulla;Chocolate CORONA endulzado con stevia (1664 gr);$ 197.100;chocolate corona endulzado con stevia 1664 g;197100.0;True
+CORONA;Carulla;Mezcla CORONA para pancakes (320 gr);$ 10.900;mezcla corona para pancakes 320 g;10900.0;False
